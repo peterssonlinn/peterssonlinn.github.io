@@ -1,4 +1,4 @@
-baseurl = "https://peterssonlinn.com"
+baseurl = "https://peterssonlinn.github.io"
 title = "Linn Petersson"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
