@@ -40,10 +40,13 @@
     {{ else }}
     <meta property="twitter:card" content="summary" />
     {{ end }}
-    <!-- end ogp -->
+    <!-- end ogp  -->
 
     <meta name="keyword"  content="{{ .Site.Params.keyword }}">
-    <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico?">
+
+    
+   
 
     <title>{{ if .Title }}{{ .Title }} | {{ .Site.Params.SEOTitle }}{{ else }}{{ .Site.Params.SEOTitle }}{{ end }}</title>
 

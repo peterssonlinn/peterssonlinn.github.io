@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = "Linn Petersson | Linn Blog"
   description = "I am a master students..."
   keyword = "Linn"
-  slogan = "Follow me into my world"
+  slogan = "Följ med in i min värld"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "failed :("
@@ -35,7 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Hi, follow me along in my life as a student who enjoys travelling and writing."
+  sidebar_about_description = "Hej och välkommen hit! Jag är en student som har en kärlek till att resa, läsa, fota och då & då skriva lite."
   sidebar_avatar = "img/me_3.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
@@ -66,7 +66,7 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
+  rss            = false 
   email          = "linn@pajp.net"
   linkedin       = "https://www.linkedin.com/in/linn-petersson"
   instagram     = "https://www.instagram.com/peterssonlinn/"
