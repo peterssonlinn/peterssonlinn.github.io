@@ -1,4 +1,4 @@
-baseurl = "https://www.peterssonlinn.com"
+baseurl = "https://peterssonlinn.com"
 title = "Linn Petersson"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
